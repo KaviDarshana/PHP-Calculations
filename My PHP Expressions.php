@@ -1,5 +1,6 @@
-<html>
+<html>    
     <body>
+        
     <h1>  &nbsp;My PHP Expressions </h1>
     <?php
     $u = 36;
@@ -38,10 +39,4 @@
 
     </body>
 
-
-
-
-    <?php
-
-    ?>
 </html>
